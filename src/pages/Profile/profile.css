@@ -1,0 +1,14 @@
+.mainProfile {
+  margin: 5%;
+  justify-content: center;
+}
+
+.btnColorProfile {
+  background-color: #660801;
+  width: 100%;
+  color: #ffffff;
+}
+
+.mainForm {
+  width: 100%;
+}
